@@ -5,9 +5,14 @@ import {Input} from "./Input/Input";
 
 function App() {
   return (
-      <div className="App">
-        <Title />
-          <Input />
+      <div className="backGround">
+        <div className="App">
+            <Title />
+        </div>
+        <div align="center">
+            <Input />
+        </div>
+
       </div>
   );
 }

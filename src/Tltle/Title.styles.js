@@ -6,5 +6,4 @@ export const TitleStyles = styled.h1`
   font-size: 3rem;
   text-align: center;
   color: #57b770;
-  background-color: #1e2226;
 `;
